@@ -1,0 +1,8 @@
+• Data OpenStreetMap setakat 21 Oktober
+• Stesen pemantauan, pulau trafik, fasiliti terapi air Kneipp, rel mini, petak perkhemahan, terminal lapangan terbang, kawasan permainan dalaman, kedai telekom, sewa bot dan slipway
+• Perisai jalan kini dipaparkan dalam arahan navigasi
+• Sokongan untuk peranti x86 lama ditambah
+• Sokongan bahasa Slovenia termasuk suara
+• Carian emoji & stesen pengecas EV dipertingkat
+
+…lagi di omaps.org/news

@@ -1,0 +1,8 @@
+• Data OpenStreetMap per 21 Oktober
+• Stasiun pemantauan, pulau lalu lintas, fasilitas terapi air Kneipp, rel mini, lokasi kemah, terminal bandara, area bermain indoor, toko telekomunikasi, sewa perahu & slipway
+• Perisai jalan kini tampil di arah navigasi
+• Dukungan perangkat x86 lama ditambahkan
+• Dukungan bahasa Slovenia dengan suara
+• Pencarian emoji & stasiun isi daya EV lebih baik
+
+…selengkapnya di omaps.org/id/news

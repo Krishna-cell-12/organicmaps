@@ -1,0 +1,27 @@
+• Az EU-s felhasználók most már beállíthatják az Organic Maps-t alapértelmezett navigációs alkalmazásként az iOS Beállítások → Alkalmazások → Alapértelmezett alkalmazások → Navigáció menüben
+
+• Friss OpenStreetMap adatok 2025. október 21-től
+• Új térkép objektumok: megfigyelő állomások, forgalmi szigetek, Kneipp vízkúra létesítmények, miniatűr vasutak, szabadtéri stílusú kemping helyek, repülőtéri terminálok, beltéri játszóterek, távközlési üzletek, csónakkölcsönző létesítmények és csónakfeljáró létesítmények
+• A metró bejárati nevek mostantól láthatóak a térképen
+• A pozíció nyíl most mutatja a mozgás irányát gyaloglás közben gyalogos navigációs módban
+• Szlovén nyelvi támogatás hozzáadva, beleértve a navigációs hangutasításokat
+• Frissített hulladékkezelési és lerakó ikonok
+• Javítva a fehér-fehér állapotsor navigációs módban
+• Megnövelt Navigáció indítása gomb méret
+• Eltávolított üres fehér terület útvonal tervezésekor iPaden
+• További színek mostantól támogatottak túraútvonalakhoz
+• Javított információ megjelenítése folyó vagy vízút szakasz kiválasztásakor
+• Jobb elektromos járműtöltő-állomás keresés javított szinonimákkal minden nyelven
+• Javított emoji keresés (igen, beírhat emoji-kat a keresőmezőbe!)
+• Javított keresési javaslatok, amelyek túl sok eredményt mutattak pontos cím keresésekhez
+• GeoJSON importálása és exportálása a https://umap.openstreetmap.fr/ címről és címre mostantól megőrzi az összes metaadatot
+
+### Nemrég megjelent funkciók, amelyeket talán lemaradt
+
+• Mentsen könyvjelzőt egy kiválasztott nyomvonalpontra
+• Töröljön egy rögzítési nyomvonalat anélkül, hogy először elmentené
+• Importáljon GeoJSON fájlokat
+
+Az Organic Maps közreműködőinknek és folyamatos támogatásának köszönhetően lehetséges.
+
+Az Organic Maps csapata

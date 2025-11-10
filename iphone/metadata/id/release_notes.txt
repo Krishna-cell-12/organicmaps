@@ -1,0 +1,27 @@
+• Pengguna UE sekarang dapat mengatur Organic Maps sebagai aplikasi navigasi default di Pengaturan iOS → Aplikasi → Aplikasi Default → Navigasi
+
+• Data OpenStreetMap segar per 21 Oktober 2025
+• Objek peta baru: stasiun pemantauan, pulau lalu lintas, fasilitas perawatan air Kneipp, kereta api miniatur, tempat berkemah bergaya outdoor, terminal bandara, area bermain dalam ruangan, toko telekomunikasi, fasilitas penyewaan perahu, dan fasilitas jalur peluncuran perahu
+• Nama pintu masuk kereta bawah tanah sekarang terlihat di peta
+• Panah posisi sekarang menunjukkan arah gerakan Anda saat berjalan dalam mode navigasi pejalan kaki
+• Menambahkan dukungan bahasa Slovenia, termasuk petunjuk suara untuk navigasi
+• Memperbarui ikon pembuangan sampah dan tempat pembuangan akhir
+• Memperbaiki bilah status putih-pada-putih dalam mode navigasi
+• Meningkatkan ukuran tombol Mulai Navigasi
+• Menghapus ruang putih kosong saat merencanakan rute di iPad
+• Warna tambahan sekarang didukung untuk jalur pendakian
+• Meningkatkan informasi yang ditampilkan saat memilih sungai atau segmen jalur air
+• Pencarian stasiun pengisian kendaraan listrik yang lebih baik dengan sinonim yang ditingkatkan dalam semua bahasa
+• Memperbaiki pencarian emoji (ya, Anda dapat mengetik emoji di kotak pencarian!)
+• Memperbaiki petunjuk pencarian yang menampilkan terlalu banyak hasil untuk pencarian alamat yang tepat
+• Mengimpor dan mengekspor GeoJSON dari dan ke https://umap.openstreetmap.fr/ sekarang mempertahankan semua metadata
+
+### Fitur yang baru dirilis yang mungkin Anda lewatkan
+
+• Simpan penanda pada titik trek yang dipilih
+• Hapus trek perekaman tanpa menyimpannya terlebih dahulu
+• Impor file GeoJSON
+
+Organic Maps dimungkinkan berkat kontributor kami dan dukungan berkelanjutan Anda.
+
+Tim Organic Maps

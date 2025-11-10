@@ -1,0 +1,27 @@
+• Os usuários da UE agora podem definir o Organic Maps como o aplicativo de navegação padrão em Ajustes do iOS → Apps → Apps padrão → Navegação
+
+• Dados atualizados do OpenStreetMap de 21 de outubro de 2025
+• Novos objetos do mapa: estações de monitoramento, ilhas de tráfego, instalações de cura de água Kneipp, ferrovias em miniatura, locais de acampamento em estilo ao ar livre, terminais de aeroporto, áreas de recreação infantil cobertas, lojas de telecomunicações, instalações de aluguel de barcos e instalações de rampa para barcos
+• Os nomes das entradas de metrô agora estão visíveis no mapa
+• A seta de posição agora mostra a direção do movimento ao caminhar no modo de navegação para pedestres
+• Adicionado suporte ao idioma esloveno, incluindo instruções de voz para navegação
+• Ícones de descarte de resíduos e aterros atualizados
+• Corrigida a barra de status branca em branco no modo de navegação
+• Aumentado o tamanho do botão Iniciar navegação
+• Removido espaço em branco vazio ao planejar uma rota no iPad
+• Cores adicionais agora são compatíveis com trilhas de caminhada
+• Informações aprimoradas exibidas ao selecionar um rio ou segmento de hidrovia
+• Melhor busca de estações de carregamento de veículos elétricos com sinônimos aprimorados em todos os idiomas
+• Corrigida a busca de emojis (sim, você pode digitar emojis na caixa de busca!)
+• Corrigidas as sugestões de busca que mostravam muitos resultados para buscas de endereço exatas
+• A importação e exportação de GeoJSON de e para https://umap.openstreetmap.fr/ agora preserva todos os metadados
+
+### Recursos lançados recentemente que você pode ter perdido
+
+• Salvar um marcador em um ponto de trilha selecionado
+• Excluir uma trilha de gravação sem salvá-la primeiro
+• Importar arquivos GeoJSON
+
+O Organic Maps é possível graças aos nossos colaboradores e ao seu apoio contínuo.
+
+A equipe do Organic Maps

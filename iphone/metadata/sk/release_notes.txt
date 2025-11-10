@@ -1,0 +1,27 @@
+• Používatelia z EÚ si teraz môžu nastaviť Organic Maps ako predvolenú navigačnú aplikáciu v Nastavenia iOS → Aplikácie → Predvolené aplikácie → Navigácia
+
+• Čerstvé dáta OpenStreetMap k 21. októbru 2025
+• Nové objekty na mape: monitorovacie stanice, dopravné ostrôvky, zariadenia Kneippovej vodnej liečby, miniatúrne železnice, kempingové miesta v outdoorovom štýle, terminály letísk, vnútorné herné oblasti, telekomunikačné predajne, požičovne lodí a sklzové rampy pre lode
+• Názvy vstupov do metra sú teraz viditeľné na mape
+• Šípka polohy teraz ukazuje smer vášho pohybu pri chôdzi v režime navigácie pre chodcov
+• Pridaná podpora slovinského jazyka vrátane hlasových pokynov pre navigáciu
+• Aktualizované ikony likvidácie odpadu a skládok
+• Opravený biely stavový riadok na bielom pozadí v navigačnom režime
+• Zväčšená veľkosť tlačidla Spustiť navigáciu
+• Odstránené prázdne biele miesto pri plánovaní trasy na iPade
+• Ďalšie farby sú teraz podporované pre turistické chodníky
+• Vylepšené informácie zobrazené pri výbere rieky alebo úseku vodnej cesty
+• Lepšie vyhľadávanie nabíjacích staníc pre elektromobily s vylepšenými synonymami vo všetkých jazykoch
+• Opravené vyhľadávanie emoji (áno, môžete písať emoji do vyhľadávacieho poľa!)
+• Opravené návrhy vyhľadávania zobrazujúce príliš veľa výsledkov pre presné vyhľadávanie adries
+• Import a export GeoJSON z a do https://umap.openstreetmap.fr/ teraz zachováva všetky metadáta
+
+### Nedávno vydané funkcie, ktoré ste možno zmeškali
+
+• Uložiť záložku na vybraný bod trasy
+• Zmazať nahrávanú trasu bez jej predchádzajúceho uloženia
+• Importovať GeoJSON súbory
+
+Organic Maps je možný vďaka našim prispievateľom a vašej neustálej podpore.
+
+Tím Organic Maps

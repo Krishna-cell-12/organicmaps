@@ -1,0 +1,8 @@
+• Data OpenStreetMap k 21. říjnu
+• Monitorovací stanice, dopravní ostrůvky, Kneipp zařízení, mini železnice, místa pro kemp, letištní terminály, vnitřní herní plochy, telekomunikační obchody, půjčovny lodí a skluzavky
+• Silniční štíty nyní v pokynech navigace
+• Přidána podpora starších x86 zařízení
+• Slovinská lokalizace včetně hlasové navigace
+• Vylepšené hledání emoji a EV nabíjecích stanic
+
+…více na omaps.org/cs/news

@@ -1,0 +1,27 @@
+• Người dùng EU hiện có thể đặt Organic Maps làm ứng dụng điều hướng mặc định trong Cài đặt iOS → Ứng dụng → Ứng dụng mặc định → Điều hướng
+
+• Dữ liệu OpenStreetMap mới nhất tính đến ngày 21 tháng 10 năm 2025
+• Đối tượng bản đồ mới: trạm giám sát, đảo giao thông, cơ sở trị liệu nước Kneipp, đường sắt thu nhỏ, khu cắm trại phong cách ngoài trời, nhà ga sân bay, khu vui chơi trong nhà, cửa hàng viễn thông, cơ sở cho thuê thuyền và cơ sở dốc thuyền
+• Tên lối vào tàu điện ngầm giờ đây hiển thị trên bản đồ
+• Mũi tên vị trí giờ đây hiển thị hướng di chuyển của bạn khi đi bộ ở chế độ điều hướng dành cho người đi bộ
+• Đã thêm hỗ trợ tiếng Slovenia, bao gồm hướng dẫn bằng giọng nói cho điều hướng
+• Cập nhật biểu tượng xử lý chất thải và bãi chôn lấp
+• Đã sửa thanh trạng thái trắng trên nền trắng ở chế độ điều hướng
+• Tăng kích thước nút Bắt đầu điều hướng
+• Đã xóa khoảng trắng trống khi lập kế hoạch tuyến đường trên iPad
+• Giờ đây hỗ trợ thêm màu sắc cho các tuyến đường đi bộ đường dài
+• Cải thiện thông tin hiển thị khi chọn sông hoặc đoạn đường thủy
+• Tìm kiếm trạm sạc xe điện tốt hơn với từ đồng nghĩa được cải thiện trên tất cả các ngôn ngữ
+• Đã sửa tìm kiếm biểu tượng cảm xúc (có, bạn có thể nhập biểu tượng cảm xúc vào ô tìm kiếm!)
+• Đã sửa gợi ý tìm kiếm hiển thị quá nhiều kết quả cho tìm kiếm địa chỉ chính xác
+• Nhập và xuất GeoJSON từ và đến https://umap.openstreetmap.fr/ giờ đây giữ nguyên tất cả siêu dữ liệu
+
+### Các tính năng mới phát hành mà bạn có thể đã bỏ lỡ
+
+• Lưu dấu trang tại một điểm theo dõi đã chọn
+• Xóa bản ghi theo dõi mà không cần lưu trước
+• Nhập tệp GeoJSON
+
+Organic Maps có thể thực hiện được nhờ các cộng tác viên của chúng tôi và sự hỗ trợ liên tục của bạn.
+
+Đội ngũ Organic Maps

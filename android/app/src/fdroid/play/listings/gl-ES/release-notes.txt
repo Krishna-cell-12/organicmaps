@@ -1,0 +1,8 @@
+• Datos de OpenStreetMap a 21 de outubro
+• Estacións de seguimento, illas de tráfico, instalacións Kneipp, mini ferrocarrís, parcelas de camping, terminais de aeroporto, áreas de xogo interiores, tendas de telecomunicacións, aluguer de barcos e ramplas
+• Os escudos de estrada móstranse na navegación
+• Soporte para dispositivos x86 antigos
+• Idioma esloveno con guía de voz
+• Mellorada busca de emojis e puntos de carga EV
+
+…máis en omaps.org/gl/news

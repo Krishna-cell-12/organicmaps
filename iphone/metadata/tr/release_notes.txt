@@ -1,0 +1,27 @@
+• AB kullanıcıları artık Organic Maps'i iOS Ayarlar → Uygulamalar → Varsayılan Uygulamalar → Navigasyon bölümünde varsayılan navigasyon uygulaması olarak ayarlayabilir
+
+• 21 Ekim 2025 tarihli güncel OpenStreetMap verileri
+• Yeni harita nesneleri: izleme istasyonları, trafik adaları, Kneipp su tedavisi tesisleri, minyatür demiryolları, açık hava tarzı kamp alanları, havaalanı terminalleri, kapalı oyun alanları, telekomünikasyon mağazaları, tekne kiralama tesisleri ve kayma rampası tesisleri
+• Metro giriş isimleri artık haritada görünüyor
+• Konum oku artık yaya navigasyon modunda yürürken hareket yönünüzü gösteriyor
+• Navigasyon için sesli talimatlar dahil Slovence dil desteği eklendi
+• Atık imha ve çöp sahası simgeleri güncellendi
+• Navigasyon modunda beyaz üzerine beyaz durum çubuğu düzeltildi
+• Navigasyonu Başlat düğmesinin boyutu artırıldı
+• iPad'de rota planlarken boş beyaz alan kaldırıldı
+• Yürüyüş parkurları için ek renkler artık destekleniyor
+• Nehir veya su yolu segmenti seçerken görüntülenen bilgiler iyileştirildi
+• Tüm dillerde geliştirilmiş eş anlamlılarla daha iyi elektrikli araç şarj istasyonu araması
+• Emoji araması düzeltildi (evet, arama kutusuna emoji yazabilirsiniz!)
+• Tam adres aramaları için çok fazla sonuç gösteren arama ipuçları düzeltildi
+• https://umap.openstreetmap.fr/ adresinden GeoJSON içe ve dışa aktarma artık tüm meta verileri koruyor
+
+### Yakın zamanda yayınlanan ve kaçırmış olabileceğiniz özellikler
+
+• Seçili bir rota noktasında yer işareti kaydedin
+• Kayıt rotasını önce kaydetmeden silin
+• GeoJSON dosyalarını içe aktarın
+
+Organic Maps, katkıda bulunanlarımız ve sürekli desteğiniz sayesinde mümkün.
+
+Organic Maps Ekibi

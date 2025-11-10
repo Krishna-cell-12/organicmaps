@@ -1,0 +1,8 @@
+• OpenStreetMap-Daten Stand 21. Oktober
+• Messstationen, Verkehrsinseln, Kneipp-Anlagen, Miniaturbahnen, Campingplätze, Flughafen-Terminals, Indoor-Spielbereiche, Telekommunikationsshops, Bootsverleih und Slipanlagen
+• Straßenschilder erscheinen jetzt in Navigationsanweisungen
+• Unterstützung älterer x86-Geräte hinzugefügt
+• Slowenische Sprache inkl. Sprachnavigation
+• Verbesserte Suche nach Emojis und EV-Ladestationen
+
+…mehr auf omaps.org/de/news

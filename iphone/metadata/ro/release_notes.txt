@@ -1,0 +1,27 @@
+• Utilizatorii din UE pot acum seta Organic Maps ca aplicație de navigare implicită în Setări iOS → Aplicații → Aplicații implicite → Navigare
+
+• Date OpenStreetMap proaspete din 21 octombrie 2025
+• Obiecte noi pe hartă: stații de monitorizare, insule de circulație, facilități de cură cu apă Kneipp, căi ferate miniaturale, locuri de campare în stil outdoor, terminale aeroportuare, zone de joacă interioare, magazine de telecomunicații, facilități de închiriere bărci și facilități de rampă pentru bărci
+• Numele intrărilor de metrou sunt acum vizibile pe hartă
+• Săgeata de poziție arată acum direcția de mișcare când mergi pe jos în modul de navigare pentru pietoni
+• Adăugat suport pentru limba slovenă, inclusiv instrucțiuni vocale pentru navigare
+• Pictograme actualizate pentru eliminarea deșeurilor și depozite de deșeuri
+• Corectat bara de stare alb pe alb în modul de navigare
+• Mărit dimensiunea butonului Pornește navigarea
+• Eliminat spațiul alb gol la planificarea unei rute pe iPad
+• Culori suplimentare sunt acum acceptate pentru traseele de drumeție
+• Informații îmbunătățite afișate la selectarea unui râu sau segment de cale navigabilă
+• Căutare îmbunătățită a stațiilor de încărcare pentru vehicule electrice cu sinonime îmbunătățite în toate limbile
+• Corectat căutarea de emoji (da, poți scrie emoji în caseta de căutare!)
+• Corectate sugestiile de căutare care afișau prea multe rezultate pentru căutări de adrese exacte
+• Importul și exportul GeoJSON de la și către https://umap.openstreetmap.fr/ păstrează acum toate metadatele
+
+### Funcții lansate recent pe care le-ați putea fi ratat
+
+• Salvați un marcaj la un punct de traseu selectat
+• Ștergeți un traseu de înregistrare fără a-l salva mai întâi
+• Importați fișiere GeoJSON
+
+Organic Maps este posibil datorită contributorilor noștri și sprijinului dvs. continuu.
+
+Echipa Organic Maps

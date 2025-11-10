@@ -1,0 +1,27 @@
+• EU-användare kan nu ställa in Organic Maps som standardapp för navigering i iOS Inställningar → Appar → Standardappar → Navigering
+
+• Färsk OpenStreetMap-data per 21 oktober 2025
+• Nya kartobjekt: övervakningsstationer, trafiköar, Kneipp vattenbehandlingsanläggningar, miniatyrtåg, campingplatser i utomhusstil, flygplatsterminaler, inomhuslekytor, telekommunikationsbutiker, båtuthyrningsanläggningar och båtslipanläggningar
+• Tunnelbaneingångarnas namn är nu synliga på kartan
+• Positionspilen visar nu din rörelseriktning när du går i fotgängarnavigationsläge
+• Lagt till slovenskt språkstöd, inklusive röstinstruktioner för navigering
+• Uppdaterade ikoner för avfallshantering och soptippar
+• Åtgärdat vit-på-vit statusfält i navigeringsläge
+• Ökad storlek på knappen Starta navigering
+• Tog bort tomt vitt utrymme vid planering av en rutt på iPad
+• Ytterligare färger stöds nu för vandringsleder
+• Förbättrad information som visas vid val av flod eller vattenvägsavsnitt
+• Bättre sökning efter laddstationer för elfordon med förbättrade synonymer på alla språk
+• Åtgärdat emoji-sökning (ja, du kan skriva emojier i sökrutan!)
+• Åtgärdade sökförslag som visade för många resultat för exakta adresssökningar
+• Import och export av GeoJSON från och till https://umap.openstreetmap.fr/ bevarar nu all metadata
+
+### Nyligen släppta funktioner du kanske har missat
+
+• Spara ett bokmärke på en vald spårpunkt
+• Ta bort ett inspelningsspår utan att spara det först
+• Importera GeoJSON-filer
+
+Organic Maps är möjligt tack vare våra bidragsgivare och ditt fortsatta stöd.
+
+Organic Maps-teamet

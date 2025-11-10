@@ -1,0 +1,8 @@
+• Dane OpenStreetMap na dzień 21 października
+• Stacje monitorujące, wyspy ruchu, ośrodki wodne Kneipp, mini koleje, miejsca kempingowe, terminale lotnisk, wewnętrzne strefy zabaw, sklepy telekom, wynajem łodzi i pochylnie
+• Tarcze dróg widoczne w wskazówkach nawigacji
+• Dodano wsparcie dla starszych urządzeń x86
+• Obsługa języka słoweńskiego z głosem
+• Ulepszone wyszukiwanie emoji i ładowarek EV
+
+…więcej na omaps.org/pl/news

@@ -1,0 +1,8 @@
+• OpenStreetMap datuak urriaren 21ean
+• Monitorizazio estazioak, trafiko uharteak, Kneipp tratamendu guneak, trenbide txikiak, kanpaleku parcelak, aireportu terminalak, barne jolastokiak, telekomunikazio dendak, ontzi alokairua eta arrapala
+• Errepide ikurrak nabigazio jarraibideetan agertzen dira
+• x86 gailu zaharrentzako euskarria
+• Esloveniar hizkuntza eta ahots nabigazioa
+• Emoji eta EV karga estazio bilaketa hobetu
+
+…gehiago: omaps.org/eu/news

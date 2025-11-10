@@ -1,0 +1,27 @@
+• EU-käyttäjät voivat nyt asettaa Organic Mapsin oletusnavigointisovellukseksi iOS-asetuksissa → Sovellukset → Oletussovellukset → Navigointi
+
+• Tuore OpenStreetMap-data 21. lokakuuta 2025
+• Uudet karttakohteet: valvonta-asemat, liikennesaarekkeet, Kneipp-vesihoitolaitokset, miniatyyri-rautatiet, leirintäpaikat ulkoilmatyylissä, lentokenttäterminaalit, sisäleikkialueet, teleliikenneliikkeet, venevuokraamot ja veneslipit
+• Metroasemien sisäänkäyntien nimet näkyvät nyt kartalla
+• Paikkanuoli näyttää nyt kulkusuuntasi kävellessäsi jalankulkijanavigointitilassa
+• Lisätty slovenian kielen tuki, mukaan lukien ääni-ilmoitukset navigointiin
+• Päivitetyt jätteen käsittelyn ja kaatopaikkojen kuvakkeet
+• Korjattu valkoinen palkki valkoisella navigointitilassa
+• Kasvatettu Aloita navigointi -painikkeen kokoa
+• Poistettu tyhjä valkoinen tila reitin suunnittelussa iPadilla
+• Lisävärejä tuetaan nyt patikoinnin polkuihin
+• Parannetut tiedot, jotka näytetään, kun valitset joen tai vesiväylän osan
+• Parempi sähköautojen latausasemien haku parannetuilla synonyymillä kaikilla kielillä
+• Korjattu emoji-haku (kyllä, voit kirjoittaa emojeja hakukenttään!)
+• Korjattu hakuehdotukset, jotka näyttivät liikaa tuloksia tarkkoja osoitehakuja varten
+• GeoJSON:n tuonti ja vienti osoitteesta ja osoitteeseen https://umap.openstreetmap.fr/ säilyttää nyt kaikki metatiedot
+
+### Hiljattain julkaistut ominaisuudet, jotka olet saattanut missata
+
+• Tallenna kirjanmerkki valitulle reittipisteelle
+• Poista tallennettu reitti tallentamatta sitä ensin
+• Tuo GeoJSON-tiedostoja
+
+Organic Maps on mahdollinen kiitos avustajillemme ja jatkuvalle tuellesi.
+
+Organic Maps -tiimi

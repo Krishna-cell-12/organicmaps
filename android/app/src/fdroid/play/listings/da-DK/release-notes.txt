@@ -1,0 +1,8 @@
+• OpenStreetMap-data pr. 21. oktober
+• Monitoreringsstationer, trafikislands, Kneipp vandterapi, miniaturebaner, teltpladser, lufthavnsterminaler, indendørs legeområder, telebutikker, bådudlejning og slæbesteder
+• Vejskjolde vises nu i navigationsretninger
+• Understøttelse af ældre x86 enheder
+• Slovensk sprog med stemmevejledning
+• Forbedret søgning efter emoji og EV-ladestationer
+
+…mere på omaps.org/news

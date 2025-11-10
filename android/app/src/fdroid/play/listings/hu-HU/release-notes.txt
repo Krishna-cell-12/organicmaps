@@ -1,0 +1,8 @@
+• OpenStreetMap adatok október 21-i állapot
+• Megfigyelő állomások, közlekedési szigetek, Kneipp vízkezelő helyek, mini vasutak, kempinghelyek, repülőtéri terminálok, beltéri játszóterek, telekom üzletek, csónakkölcsönzés és sólyák
+• Útvonal navigációban megjelennek az útpajzsok
+• Támogatás régi x86 eszközökhöz
+• Szlovén nyelvi és hangnavigáció támogatás
+• Javított emoji és EV töltőállomás keresés
+
+…továbbiak: omaps.org/hu/news

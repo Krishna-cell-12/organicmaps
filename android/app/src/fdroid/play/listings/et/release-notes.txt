@@ -1,0 +1,8 @@
+• OpenStreetMap andmed seisuga 21. oktoober
+• Seirejaamad, liiklussaared, Kneipp ravikohad, miniatuurraudteed, telkimisplatsid, lennujaama terminalid, sise mängualad, telekomipoed, paadilaenutus ja slipid
+• Tee kilbid kuvatakse navigeerimisjuhistes
+• Lisati tugi vanematele x86 seadmetele
+• Sloveeni keele (hääljuhtimisega) tugi
+• Täiustatud emoji ja EV laadimisjaamade otsing
+
+…veel: omaps.org/et/news

@@ -1,0 +1,8 @@
+• Dados OpenStreetMap a 21 de outubro
+• Estações de monitorização, ilhas de tráfego, instalações Kneipp, ferrovias miniatura, locais de campismo, terminais aeroportuários, áreas de jogo interiores, lojas telecom, aluguer de barcos e rampas
+• Escudos de estrada agora nas direções de navegação
+• Suporte para dispositivos x86 antigos
+• Língua eslovena com orientação por voz
+• Pesquisa melhor de emojis e carregadores EV
+
+…mais em omaps.org/pt/news

@@ -1,0 +1,8 @@
+• OpenStreetMap data as of October 21
+• Monitoring stations, traffic islands, Kneipp water cure facilities, miniature railways, camp pitches, airport terminals, indoor play areas, telecommunication shops, boat rentals and slipways
+• Road shields are now displayed in navigation directions
+• Added support for older x86 devices
+• Slovenian language support, including voice directions for navigation
+• Improved emoji and EV charging station search
+
+…more at omaps.org/news

@@ -1,0 +1,8 @@
+• OpenStreetMap duomenys 21 spalio
+• Stebėjimo stotys, eismo salelės, Kneipp vandens terapija, mini geležinkeliai, stovyklavietės, oro uosto terminalai, vidaus žaidimų zonos, telekomunikacijų parduotuvės, laivų nuoma ir slipai
+• Kelio skydai rodomi navigacijos kryptims
+• Pridėtas senų x86 įrenginių palaikymas
+• Slovėnų kalba su balso navigacija
+• Patobulinta emoji ir EV įkrovimo paieška
+
+…daugiau: omaps.org/lt/news

@@ -1,0 +1,8 @@
+• Dữ liệu OpenStreetMap đến 21/10
+• Trạm giám sát, đảo giao thông, cơ sở Kneipp, đường sắt thu nhỏ, chỗ cắm trại, nhà ga sân bay, khu vui chơi trong nhà, cửa hàng viễn thông, thuê thuyền & đường trượt
+• Khiên đường hiển thị trong chỉ dẫn
+• Thêm hỗ trợ thiết bị x86 cũ
+• Ngôn ngữ Slovenia kèm dẫn đường giọng nói
+• Tìm kiếm emoji & trạm sạc EV cải thiện
+
+…thêm tại omaps.org/news
