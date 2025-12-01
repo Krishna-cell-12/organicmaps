@@ -1,0 +1,488 @@
+{
+	"BUILD_DIR" : "/home/krishna/organicmaps/build-qt/libs/platform/platform_autogen",
+	"CMAKE_BINARY_DIR" : "/home/krishna/organicmaps/build-qt",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/krishna/organicmaps/build-qt/libs/platform",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/krishna/organicmaps/libs/platform",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/krishna/organicmaps/libs/platform/CMakeLists.txt",
+		"/home/krishna/organicmaps/libs/platform/platform_qt_version.cpp.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/krishna/organicmaps",
+	"DEP_FILE" : "/home/krishna/organicmaps/build-qt/libs/platform/platform_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "platform_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/krishna/organicmaps/libs/platform/battery_tracker.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_battery_tracker.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/chunks_download_strategy.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_chunks_download_strategy.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/constants.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_constants.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/country_defines.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_country_defines.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/country_file.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_country_file.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/distance.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_distance.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/downloader_defines.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_downloader_defines.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/downloader_utils.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_downloader_utils.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/duration.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_duration.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/get_text_by_id.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_get_text_by_id.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/gui_thread.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_gui_thread.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_client.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_http_client.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_payload.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_http_payload.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_request.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_http_request.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_thread_callback.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_http_thread_callback.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_thread_qt.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_http_thread_qt.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_uploader.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_http_uploader.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_uploader_background.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_http_uploader_background.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/local_country_file.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_local_country_file.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/local_country_file_utils.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_local_country_file_utils.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/locale.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_locale.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/localization.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_localization.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/location.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_location.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/measurement_utils.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_measurement_utils.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/mwm_traits.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_mwm_traits.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/mwm_version.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_mwm_version.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/placement_settings.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_placement_settings.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/platform.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_platform.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/platform_unix_impl.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_platform_unix_impl.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/preferred_languages.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_preferred_languages.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/products.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_products.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/remote_file.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_remote_file.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/secure_storage.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_secure_storage.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/servers_list.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_servers_list.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/settings.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_settings.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/socket.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_socket.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/string_storage_base.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_string_storage_base.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/style_utils.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_style_utils.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/trace.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_trace.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/utm_mgrs_utils.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_utm_mgrs_utils.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/private.h",
+			"Mu",
+			"YCDLW3T4OG/moc_private.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/krishna/organicmaps/build-qt/libs/platform/platform_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/krishna/organicmaps/build-qt/libs/platform/platform_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"JANSSON_USING_CMAKE",
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"RELEASE",
+		"USE_FILE32API"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/krishna/organicmaps",
+		"/home/krishna/organicmaps/libs",
+		"/home/krishna/organicmaps/tools",
+		"/home/krishna/organicmaps/build-qt/3party/gflags/include",
+		"/home/krishna/organicmaps/3party/utfcpp/source",
+		"/home/krishna/organicmaps/build-qt/3party/jansson/jansson/include",
+		"/home/krishna/organicmaps/3party/expat/expat/lib",
+		"/home/krishna/organicmaps/build-qt/3party/expat/expat",
+		"/home/krishna/organicmaps/3party/boost",
+		"/home/krishna/organicmaps/3party/glaze/include",
+		"/usr/include/x86_64-linux-gnu/qt6/QtCore",
+		"/usr/include/x86_64-linux-gnu/qt6",
+		"/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt6/QtNetwork",
+		"/usr/include",
+		"/usr/include/c++/13",
+		"/usr/include/x86_64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++23",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/krishna/organicmaps/build-qt/libs/platform/platform_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/krishna/organicmaps/build-qt/libs/platform/CMakeFiles/platform_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 4,
+	"SETTINGS_FILE" : "/home/krishna/organicmaps/build-qt/libs/platform/CMakeFiles/platform_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/krishna/organicmaps/build-qt/libs/platform/platform_qt_version.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/battery_tracker.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/chunks_download_strategy.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/country_defines.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/country_file.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/distance.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/downloader_utils.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/duration.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/get_text_by_id.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/gui_thread_qt.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/http_client.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_client_curl.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_payload.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_request.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_thread_qt.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_uploader_background_dummy.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/http_uploader_dummy.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/local_country_file.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/local_country_file_utils.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/locale_std.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/localization.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/localization_dummy.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/measurement_utils.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/mwm_traits.cpp", "Mu", null ],
+		[ "/home/krishna/organicmaps/libs/platform/mwm_version.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/network_policy_dummy.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/platform.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/platform_linux.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/platform_qt.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/platform_unix_impl.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/preferred_languages.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/products.cpp", "Mu", null ],
+		[ "/home/krishna/organicmaps/libs/platform/remote_file.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/secure_storage_qt.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/platform/servers_list.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/settings.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/string_storage_base.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/krishna/organicmaps/libs/platform/style_utils.cpp", "Mu", null ],
+		[
+			"/home/krishna/organicmaps/libs/platform/utm_mgrs_utils.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

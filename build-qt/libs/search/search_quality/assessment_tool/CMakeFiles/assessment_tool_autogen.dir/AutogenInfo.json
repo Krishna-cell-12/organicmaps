@@ -1,0 +1,249 @@
+{
+	"BUILD_DIR" : "/home/krishna/organicmaps/build-qt/libs/search/search_quality/assessment_tool/assessment_tool_autogen",
+	"CMAKE_BINARY_DIR" : "/home/krishna/organicmaps/build-qt",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/krishna/organicmaps/build-qt/libs/search/search_quality/assessment_tool",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/krishna/organicmaps/libs/search/search_quality/assessment_tool",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/krishna/organicmaps",
+	"DEP_FILE" : "/home/krishna/organicmaps/build-qt/libs/search/search_quality/assessment_tool/assessment_tool_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "assessment_tool_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/context.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_context.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/edits.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_edits.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/feature_info_dialog.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_feature_info_dialog.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/helpers.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_helpers.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/main_model.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_main_model.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/main_view.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_main_view.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/model.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_model.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/result_view.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_result_view.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/results_view.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_results_view.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/sample_view.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_sample_view.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/samples_view.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_samples_view.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/search_request_runner.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_search_request_runner.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/view.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_view.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/krishna/organicmaps/build-qt/libs/search/search_quality/assessment_tool/assessment_tool_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/krishna/organicmaps/build-qt/libs/search/search_quality/assessment_tool/assessment_tool_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GFLAGS_IS_A_DLL=0",
+		"JANSSON_USING_CMAKE",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGLWIDGETS_LIB",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"RELEASE",
+		"USE_FILE32API"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/krishna/organicmaps",
+		"/home/krishna/organicmaps/libs",
+		"/home/krishna/organicmaps/tools",
+		"/home/krishna/organicmaps/build-qt/3party/gflags/include",
+		"/home/krishna/organicmaps/3party/utfcpp/source",
+		"/home/krishna/organicmaps/build-qt/3party/jansson/jansson/include",
+		"/home/krishna/organicmaps/3party/expat/expat/lib",
+		"/home/krishna/organicmaps/build-qt/3party/expat/expat",
+		"/home/krishna/organicmaps/3party/protobuf/protobuf/src",
+		"/home/krishna/organicmaps/3party/opening_hours",
+		"/home/krishna/organicmaps/3party/pugixml/pugixml/src",
+		"/home/krishna/organicmaps/3party/glm",
+		"/home/krishna/organicmaps/3party/Vulkan-Headers/include",
+		"/home/krishna/organicmaps/3party/vulkan_wrapper",
+		"/home/krishna/organicmaps/3party/boost",
+		"/home/krishna/organicmaps/3party/glaze/include",
+		"/usr/include/x86_64-linux-gnu/qt6/QtCore",
+		"/usr/include/x86_64-linux-gnu/qt6",
+		"/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt6/QtNetwork",
+		"/usr/include/freetype2",
+		"/usr/include/harfbuzz",
+		"/usr/include/x86_64-linux-gnu/qt6/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt6/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt6/QtOpenGL",
+		"/usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets",
+		"/usr/include",
+		"/usr/include/c++/13",
+		"/usr/include/x86_64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++23",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/krishna/organicmaps/build-qt/libs/search/search_quality/assessment_tool/assessment_tool_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/krishna/organicmaps/build-qt/libs/search/search_quality/assessment_tool/CMakeFiles/assessment_tool_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 4,
+	"SETTINGS_FILE" : "/home/krishna/organicmaps/build-qt/libs/search/search_quality/assessment_tool/CMakeFiles/assessment_tool_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/assessment_tool.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/context.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/edits.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/feature_info_dialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/helpers.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/main_model.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/main_view.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/result_view.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/results_view.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/sample_view.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/samples_view.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/libs/search/search_quality/assessment_tool/search_request_runner.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

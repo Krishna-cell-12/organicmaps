@@ -1,0 +1,198 @@
+{
+	"BUILD_DIR" : "/home/krishna/organicmaps/build-qt/tools/openlr/openlr_match_quality/openlr_assessment_tool/openlr_assessment_tool_autogen",
+	"CMAKE_BINARY_DIR" : "/home/krishna/organicmaps/build-qt",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/krishna/organicmaps/build-qt/tools/openlr/openlr_match_quality/openlr_assessment_tool",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/krishna/organicmaps",
+	"DEP_FILE" : "/home/krishna/organicmaps/build-qt/tools/openlr/openlr_match_quality/openlr_assessment_tool/openlr_assessment_tool_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "openlr_assessment_tool_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/mainwindow.hpp",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/map_widget.hpp",
+			"MU",
+			"EWIEGA46WW/moc_map_widget.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/points_controller_delegate_base.hpp",
+			"MU",
+			"EWIEGA46WW/moc_points_controller_delegate_base.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/segment_correspondence.hpp",
+			"MU",
+			"EWIEGA46WW/moc_segment_correspondence.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/traffic_drawer_delegate_base.hpp",
+			"MU",
+			"EWIEGA46WW/moc_traffic_drawer_delegate_base.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/traffic_mode.hpp",
+			"MU",
+			"EWIEGA46WW/moc_traffic_mode.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/traffic_panel.hpp",
+			"MU",
+			"EWIEGA46WW/moc_traffic_panel.cpp",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/trafficmodeinitdlg.h",
+			"MU",
+			"EWIEGA46WW/moc_trafficmodeinitdlg.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/krishna/organicmaps/build-qt/tools/openlr/openlr_match_quality/openlr_assessment_tool/openlr_assessment_tool_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/krishna/organicmaps/build-qt/tools/openlr/openlr_match_quality/openlr_assessment_tool/openlr_assessment_tool_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GFLAGS_IS_A_DLL=0",
+		"JANSSON_USING_CMAKE",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGLWIDGETS_LIB",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"RELEASE",
+		"USE_FILE32API"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/krishna/organicmaps",
+		"/home/krishna/organicmaps/libs",
+		"/home/krishna/organicmaps/tools",
+		"/home/krishna/organicmaps/build-qt/3party/gflags/include",
+		"/home/krishna/organicmaps/3party/utfcpp/source",
+		"/home/krishna/organicmaps/build-qt/3party/jansson/jansson/include",
+		"/home/krishna/organicmaps/3party/expat/expat/lib",
+		"/home/krishna/organicmaps/build-qt/3party/expat/expat",
+		"/home/krishna/organicmaps/3party/protobuf/protobuf/src",
+		"/home/krishna/organicmaps/3party/opening_hours",
+		"/home/krishna/organicmaps/3party/pugixml/pugixml/src",
+		"/home/krishna/organicmaps/3party/glm",
+		"/home/krishna/organicmaps/3party/Vulkan-Headers/include",
+		"/home/krishna/organicmaps/3party/vulkan_wrapper",
+		"/home/krishna/organicmaps/3party/boost",
+		"/home/krishna/organicmaps/3party/glaze/include",
+		"/usr/include/x86_64-linux-gnu/qt6/QtCore",
+		"/usr/include/x86_64-linux-gnu/qt6",
+		"/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt6/QtNetwork",
+		"/usr/include/freetype2",
+		"/usr/include/harfbuzz",
+		"/usr/include/x86_64-linux-gnu/qt6/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt6/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt6/QtOpenGL",
+		"/usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets",
+		"/usr/include",
+		"/usr/include/c++/13",
+		"/usr/include/x86_64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++23",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/krishna/organicmaps/build-qt/tools/openlr/openlr_match_quality/openlr_assessment_tool/openlr_assessment_tool_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/krishna/organicmaps/build-qt/tools/openlr/openlr_match_quality/openlr_assessment_tool/CMakeFiles/openlr_assessment_tool_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 4,
+	"SETTINGS_FILE" : "/home/krishna/organicmaps/build-qt/tools/openlr/openlr_match_quality/openlr_assessment_tool/CMakeFiles/openlr_assessment_tool_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/map_widget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/segment_correspondence.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/traffic_mode.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/traffic_panel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/krishna/organicmaps/tools/openlr/openlr_match_quality/openlr_assessment_tool/trafficmodeinitdlg.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
